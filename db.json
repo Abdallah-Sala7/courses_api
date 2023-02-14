@@ -139,7 +139,7 @@
       "totalRating": 50,
       "totalStudent": 210,
       "days": 11,
-      "levels": "beginners",
+      "levels": "beginner",
       "overview": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas sit aspernatur.",
       "requirements" : [
         "Figma",
@@ -252,7 +252,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Idea Was Based On Our Experiences Learning Photoshop",
       "category": "design",
       "description": " Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas.",
@@ -292,7 +292,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Complete Python Bootcamp From Zero To Hero In Python (2023 Edition)",
       "category": "software",
       "description": " Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas.",
@@ -332,7 +332,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Fitness, Physical Education Relation To Academic Performance",
       "category": "software",
       "description": "Learn how to become a Financial Analyst and start investing in the stock market. ",
@@ -372,7 +372,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Accounting And Finance Advice Can Improve Your Team (Training 2022)",
       "category": "business",
       "description": "Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas.",
@@ -415,7 +415,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Angular – The Complete Guide (2023 Edition)",
       "category": "development",
       "description": " Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas.",
